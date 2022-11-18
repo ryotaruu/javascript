@@ -1,0 +1,12 @@
+.Bulbon{
+    width: 100px;
+}
+.Text_header{
+    text-align: center;
+}
+.content{
+    text-align: center;
+}
+.pagination.justify-content-center{
+    margin: 20px 0;
+}
